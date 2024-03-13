@@ -1,0 +1,2 @@
+large system devided into small component
+it has its own name
